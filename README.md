@@ -1,5 +1,9 @@
 ### Hi there 👋
 ### Welcome to electrongonewild!
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=electrongonewild&show_icons=true&theme=dracula" alt="electrongonewild" />
 <!--
 **electrongonewild/electrongonewild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
