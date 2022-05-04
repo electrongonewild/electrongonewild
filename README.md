@@ -10,7 +10,7 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
   
 ## Quick Stats about us
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="electrongonewild" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=electrongonewild&show_icons=true&theme=dracula" alt="electrongonewild" /></p>
 
 ## Have a look on some of our Repository
 
