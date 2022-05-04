@@ -12,7 +12,7 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=electrongonewild&show_icons=true&theme=dracula" alt="electrongonewild" /></p>
 
-## Have a look on some of our Repository
+## Have a look on some of our repositories
 
 - [**ESP8266 Wi-Fi Module**](https://github.com/electrongonewild/ESP8266_WiFi_Module)
 - [**EC200 GSM Module**](https://github.com/electrongonewild/EC200_GSM_Module)
