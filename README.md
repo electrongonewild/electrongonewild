@@ -12,12 +12,12 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1998ramanpreet&show_icons=true&theme=dracula" alt="1998ramanpreet" /></p>
 
-## Have a look on some of my college Projects
+## Have a look on some of our Repository
 
-- [**Smart Street light System**](https://github.com/1998ramanpreet/Smart-Street-Light-System): Automation of street lights to reduce power consumption.
-- [**Read-Out Circuit for Biosensors**](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors):To perform CTNI test which predicts the amount of troponin in the blood by means of conductivity of analyte and thereby making its use in medical applications for cardiac arrest detection.
-- [**Controlling Orthotic Device using TFT-LCD**](https://github.com/1998ramanpreet/Controlling-Orthotic-Device-using-TFT-LCD): HMI development and automation for Robotic Rehabilitation and thereby making its use in medical application (Ankle therapy control)
-- [**Mobile Phone Detection Using Operational Amplifier**](https://github.com/1998ramanpreet/Mobile-Phone-Detection-Using-Operational-Amplifier): Practical implementation and analyzation of different circuits used for detection of activated mobile phones i.e. calling and SMS.
+- [**ESP8266 Wi-Fi Module**](https://github.com/electrongonewild/ESP8266_WiFi_Module)
+- [**EC200 GSM Module**](https://github.com/electrongonewild/EC200_GSM_Module)
+- [**EM18 RFID Reader**](https://github.com/electrongonewild/EM18_RFID_Reader)
+
 ## Let's Connect
 
 <p>  <a 
