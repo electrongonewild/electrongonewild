@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Welcome to electrongonewild!
-
+### Welcome to ElectronGoneWild!
+# About Team ElectronGoneWild
 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=electrongonewild&show_icons=true&theme=dracula" alt="electrongonewild" />
