@@ -20,8 +20,9 @@ I'm currently working as Embedded System Engineer who loves to learn new things.
 
 ## Meet Our Team
 
-- [**Ramanpreet Kaur**](https://github.com/1998ramanpreet)
-- [**Shikha Singhal**](https://github.com/shikhasinghal2075)
+| <img src = "https://github.com/1998ramanpreet/1998ramanpreet.github.io/blob/master/assets/images/pic.jpeg?raw=true"> | <img src = "https://avatars.githubusercontent.com/u/60216456?v=4"> | 
+| :----------------------------------------------------------: | :----------------------------------------------------------: | 
+|     [**Ramanpreet Kaur**](https://github.com/1998ramanpreet) |    [**Shikha Singhal**](https://github.com/shikhasinghal2075)      
 
 
 
