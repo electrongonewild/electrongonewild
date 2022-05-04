@@ -6,7 +6,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=electrongonewild&show_icons=true&theme=dracula" alt="electrongonewild" />
  
 # Meet Our Team
-  
+* [Ramanpreet Kaur](https://github.com/1998ramanpreet)
+* [Shikha Singhal](https://github.com/shikhasinghal2075)
   
   
 <!--
