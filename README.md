@@ -4,7 +4,7 @@
  
 
 ## About Us
-I'm currently working as Embedded System Engineer who loves to learn new things. Working on EV charging technology. Mainly focused in development and testing of EV charging control and communication between EV and EV Supply Equipment based on DIN SPEC 70121. Also working on lots of fascinating internal projects!
+Electronics enthusiasts exploring new stuff and sharing to help other enthusiasts to along!
 
 
   
