@@ -18,6 +18,7 @@ Electronics enthusiasts exploring new stuff and sharing to help other enthusiast
 - [**EC200 GSM Module**](https://github.com/electrongonewild/EC200_GSM_Module)
 - [**EM18 RFID Reader**](https://github.com/electrongonewild/EM18_RFID_Reader)
 - [**Program TI devices using Uniflash**](https://github.com/electrongonewild/Program-TI-devices-using-UniFlash)
+- [**Playing with STM32MP157 Discovery Kit**](https://github.com/electrongonewild/Playing-with-STM32MP157-Discovery-Kit)
 
 ## Meet Our Team
 
