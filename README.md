@@ -17,7 +17,7 @@ Electronics enthusiasts exploring new stuff and sharing to help other enthusiast
 - [**ESP8266 Wi-Fi Module**](https://github.com/electrongonewild/ESP8266_WiFi_Module)
 - [**EC200 GSM Module**](https://github.com/electrongonewild/EC200_GSM_Module)
 - [**EM18 RFID Reader**](https://github.com/electrongonewild/EM18_RFID_Reader)
-- [**Program TI devices using Uniflash**](https://github.com/electrongonewild/Program_TI_devices_using_Uniflash)
+- [**Program TI devices using Uniflash**](https://github.com/electrongonewild/Program-TI-devices-using-UniFlash)
 
 ## Meet Our Team
 
