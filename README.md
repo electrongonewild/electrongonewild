@@ -4,7 +4,7 @@
  
 
 ## About Us
-Electronics enthusiasts exploring new stuff and sharing to help other enthusiasts to along!
+Electronics enthusiasts exploring new stuff and sharing knowledge to help other enthusiasts to get along!
 
 
   
