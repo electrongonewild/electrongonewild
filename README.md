@@ -6,7 +6,8 @@
 ## About Us
 Electronics enthusiasts exploring new stuff and sharing knowledge to help other enthusiasts to get along!
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=electrongonewild.electrongonewild )
+<br/>
   
 ## Quick Stats about us
 
