@@ -23,7 +23,7 @@ Electronics enthusiasts exploring new stuff and sharing knowledge to help other 
 
 ## Meet Our Team
 
-| <img src = "https://github.com/1998ramanpreet/1998ramanpreet.github.io/blob/master/assets/images/pic.jpeg?raw=true"> | <img src = "https://avatars.githubusercontent.com/u/60216456?v=4"> | 
+| <img src = "https://avatars.githubusercontent.com/u/60250191?s=400&u=8327d23e98afc845c6d08dfde0e0925cfa9465b9&v=4?raw=true"> | <img src = "https://avatars.githubusercontent.com/u/60216456?v=4"> | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 |     [**Ramanpreet Kaur**](https://github.com/1998ramanpreet) |    [**Shikha Singhal**](https://github.com/shikhasinghal2075)      
 
